@@ -4,385 +4,123 @@ Notes from 42 Silicon Valley's townhall meetings. Not guaranteed to be accurate;
 
 ### Previous Townhalls
 
+* [2019.12.05 (Gaetan is leaving; new CYD PDF; holiday vacations)](2019.12.05.md)
 * [2019.10.28 (New bocalians; new executive director; CYD/Vacation clarifications)](2019.10.28.md)
 * [2019.09.12 (Paid Slack is coming, intra forum is dead, new curriculum rumors, check your dorms)](2019.09.12.md)
 * [2019.07.22 (AC problems; lab closures; rules/FAQs added to meta.intra.42.fr)](2019.07.22.md)
 
 ---
 
-# Most Recent Townhall (2019.09.12)
+# Most Recent Townhall (2019.12.05)
 
-#### New bocalians; new executive director; CYD/Vacation clarifications
+#### Gaetan is leaving; new CYD PDF; holiday vacations
 
-#### Although I am currently a member of bocal, these notes are not official communication from bocal. Any errors or inaccuracies are my own.
+_Notes by vinguyen, edited by kmira_
+
+#### Vacation Requests; CYD Updates/Clarifications; Gaetan Leaving 42
+For policies regarding 42, check out: [meta.intra.42.fr/articles](meta.intra.42.fr/articles)
 
 # Announcements
-
-## New bocalians
-
-* Andy: [andy](https://profile.intra.42.fr/users/andy) / [agardner](https://profile.intra.42.fr/users/agardner)
-* Aren: [arwn](https://profile.intra.42.fr/users/arwn) / [awindham](https://profile.intra.42.fr/users/awindham)
-* Crystal: [crystal](https://profile.intra.42.fr/users/crystal) / [cschulle](https://profile.intra.42.fr/users/cschulle)
-* Evan: [evan](https://profile.intra.42.fr/users/evan) / [evjohnst](https://profile.intra.42.fr/users/evjohsnt)
-
-
-## New executive director of 42sv
-
-Ulises Zatarain: [ulises](https://profile.intra.42.fr/users/ulises)
+* Interview Piscine & PHP Piscine are currently occuring
 
 ## Academics
+* Dec 23 - Jan 6 Vacation Requests will automatically be approved. If you need a vacation longer then 21 days, contact bocal.
 
-### CYD Clarification
+### CYD Updates
+* CYD PDF was officially updated
+* Verification is a 2-step process:
+1. Evaluated by peers
+2. Evaluated by bocal
+If you get below 100% and it says a "Fail," you do not automatically get kicked out. Bocal will contact you and you will have a meeting about the next steps regarding CYD.
 
-* Exams - at any given point, if we look at your profile, there should be two exams w/in the last 4 weeks
-* Lvs - 1lv/month will for sure meet this criteria... but, sometimes it's hard and people fall behind, but are working... we see that and look at hours and project submissions, as well. we don't want to kick out people who are working
-* Hours - 35hr/wk -- this is the minimum ... if you are getting your lv/month, 35hrs might be right for you. but, if you are falling behind, we are looking for more like \~50-60hrs/wk
+### Contacting Bocal
+* If you have additional concerns, do not hesistate to talk to bocal.
+* Ask Iris for availability
 
-### Vacation
+### GitHub
+* Access: [portal.42.us.org/github](http://portal.42.us.org/users/sign_in)
+* Register to GitHub using student email and log onto the intra. 
+* Popoular free tools: name.com, namecheap, aws educate
 
-* Make a Vacation Request on [portal.42.us.org](http://portal.42.us.org)
-* Vacations are for: 
-	* Emergencies
-	* Health issues (with Doctor’s note)
-	* Students who are ahead in the curriculum
-* Be specific in your request
-* If your request is denied and it is urgent, please contact @Bocal as soon as possible
-* How do vacations affect levels? 
-	* They add a buffer according to time you are gone
-* How do they affect hours? 
-	* Gain \~8 hour buffer per vacation day
-* How do they affect exams?
-	* Manually audited; Exempt during the time
-
-### Academic questions
-
-Come talk to us! 👋
-
-This may require: 
-* Messaging the @Bocal bot
-* Coming to Bocal between 9am - 5pm M-F
-* You’re welcomed to stop by but we may not be available
-
-## Dormitory
-
-* Do not put items in the hallway, including furniture and shoes.
-	* Rugs are okay.
-* Fire drill is coming "soon". Look out for an email.
-
-## 42 Network
-
-Migrating to the new Slack by November 18th
-* Students will not be able to create channels on the new Slack
-	* You may want to consider an alternative communication medium
-
-[42 Internal Stack Overflow](https://stackoverflow.com/c/42network/questions)
-* Space for more users has been added
-* Join with your student.42.us.org email address
+## Dormitory Issues
+* Do not feed the animals outside the dorm. There has been more poop, garbage, and mice in the last 2 months. Instead, call an animal shelter. 42 could additionally get in trouble with authorities.
 
 ## Events
+* Topic Presentation from Clevy, a French alumni who created his own langauge -> December 5 @ 4:30 pm
+* 42 Silicon Valley Secret Sata: Contact @Santa for more information -> December 16-19 (date TBD)
+* Holiday. Bocal may not answer ASAP -> December 23 - Jan 6
+* Community Resource Day: TriCity Health and Food Bank for free vacinations, farmer's market, games/events, etc. 
+  * If you are in a student-run club, feel free to contact bocal and represent yourself at this Community Resource Day
 
-### Upcoming events
-* Samsung Developer Conference - October 28-29th
-	* We have discounted tickets, but only a limited number so get 'em now!
-* Topical Presentation by Sandee Curtis from ServiceNow - October 29th @ 1:00 PM in the Check-in Room (CADET && PISCINERS)
-* Halloween Costume Contest + Movie - October 31st @ 1:42 PM in the Middle of the Lab (CADET && PISCINERS)
-* Meta Hobby presents Game Dev Play Test Night @ November 6th @ 6:00 PM (CADET && PISCINERS && EXTERNAL)
-	* For more info contact @myoung. Jamie says "we have members of the public coming, so wear pants".
-* [Google Machine Learning event with the Robolab at 1pm on Saturday](https://www.meetup.com/GDG-Fremont/events/266026572/)
+## Applications
+### Ambassadors: 
+* Email events@42.us.org. Ambassadors are student who help at events (internal and off-campus), networking and meeting people, learning how to talk.
+* Needs to be Level 1
+* First monday of each month
 
-### Ambassadors
-* Responsibilities include: helping at events (internal and off-campus), networking and meeting people, learning how to talk to people
-* Monthly recurring interview slot - first Monday of every month
-* If interested, email events@42.us.org
+### Prefect:
+* Date: January Piscine
+* Look out for an official announcement in the next few weeks
 
-# Questions
+### HackHighSchool (H2S) Mentor
+* Applications Open: February 1, 2019
+* Message @jem
+* Good for gaining experience in explaining technical words in a less technical way
 
-*Vote tallies as of 1:48pm, 2019.10.28*
+### Cantina Volunteers
+* Sign-up in person at the Cantina
+* Responsibilities: Dishes, serving meals, serving coffee, dump, recyle, unpacking
 
-### Q:
-༼ つ ͠° ͟ ͟ʖ ͡° ༽つ
-༼ つ ͠° ͟ ͟ʖ ͡° ༽つ   -=OCaml Piscine=-   ༼ つ ͠° ͟ ͟ʖ ͡° ༽つ
-                                    PLEASE
-                                 ༼ つ ͠° ͟ ͟ʖ ͡° ༽つ
+## Special Announcement
+* Gaetan: Officially leaving 42. His last day is Friday, December 13, 2019. 
+> "Because you are here, you made it happen."
+> "To learn, we don't need a teacher. It depends only on you."
+> "I want each one of you to trust in yourself."
 
-_29 upvotes | 5 downvotes [Anonymous -- Oct 25, 2019, 9:22:35 PM]_
-### A:
-There must be at least 35 eligible, active people in order to request a piscine. We've run piscines before with fewer, and a lot of people drop out. Piscines don't work with 5 people. Rally your friends, but only if they won't drop out halfway through the piscine.
+## Questions
+**For those who had bought lunch with Gaetan using their wallet points, can we still have lunch with them?**
 
----
-### Q:
-Is there a donation box to help and accelerate the repairs for the dorms?
+Yes, but you have 1 week to do so.
 
-_22 upvotes | 0 downvotes [Anonymous -- Oct 25, 2019, 7:46:37 PM]_
-### A:
-Bocal will not accept money from students toward repairs for the dorms. Now that we have a new exec director, bocal will be able to make some adjustments to how money is allocated.
+**For CYD, could you clarify on the tiers?**
 
----
-### Q:
-I know this has been brought up before. But can we please consider at night lowering the brightness of the lights to 75% at night in the lab? It seriously hurts my eyes sometimes and it's really unneeded imo. It's already extremely bright in the day.
+There are 5 tiers that may happen at the end of the CYD. It's still in the making, but here are a few tiers:
+* Pass: Good Job!
+* Warning: Passed but concerned
+* Meeting: Meet with bocal to get on track academically
+* Eviction: Goodbye
+The reason why that it is broken up this way is that it is understandable to get a little bit behind if there is something that happened in life. If you sleep through 1 test, we are not kicking you out of your home. If you fail CYD, you will receive an email with the next steps. We are working with everyone to be clear about CYD. Crystal, from Bocal, is in charge of this
 
-_23 upvotes | 2 downvotes [Anonymous -- Oct 27, 2019, 1:57:27 AM]_
-### A:
-Manny will look into it. The problem right now is that it's automated in such a way that it tends to reset.
+**In terms of Gaetan, are you planning on doing something as great or even greater than 42?**
 
----
-### Q:
-Could you please provide us with the RV permission? Bay Area is expensive!!! Dorms overloaded.
+Yes. I have hope for the world and think that we could do more. Right now, I want to "sleep and rest."
+> "I want to become spoiled and become a surfer for 1 month to enjoy the life"
+> "I will do something...or join a big company and sell my soul"
 
-_23 upvotes | 6 downvotes [Anonymous -- Oct 26, 2019, 6:37:22 PM]_
-### A:
-Bocal will work on figuring this out. This issue is under review, and if the situation changes bocal will give the community plenty of notification.
+**Someone had mentioned on Slack that Bocal will soon be regulating a system to check for regular commits. Could you clarify on this?"**
 
----
-### Q:
-New Holy Graph
+Students will be grandfathered in. There will be a period of time in which students' work will be checked for commits. The reason for this is because commiting is a good practice, and its a way to track to see if students are actually working. There have been students who have multiple projects open but they are not working on it. These projects will be closed if there are no commits.
 
-_24 upvotes | 8 downvotes [Anonymous -- Oct 25, 2019, 4:48:43 PM]_
-### A:
-Local bocal can't give official info because it's not finalized yet. There are ways to look it up on intra >.>
+**Is 42 accelerate still happening?**
 
----
-### Q:
-can you confirm that even though not all of these questions are answered in the town hall, that you are reading them and taking them into consideration?
+Beginning of next year. Speak to Jim Zheng if you have any questions. There will be an event regarding 42 Accelerate in the future.
 
-_17 upvotes | 2 downvotes [Anonymous -- Oct 27, 2019, 2:35:55 AM]_
-### A:
-Yes. Bocal also reads event feedbacks, and decides which companies to invite back based on them. :)
+**Is wifi in the dorm?**
 
----
-### Q:
-Hello everyone.
-Dont you think its better to change all staff in bocal periodically? (like every 4-6 month)
-It seems people there got a power and can do whatever they want instead of develop and make this place better for everyone.
+It should be back up. There was a minor small power outage today, but it is unsure what caused the power outage. Wifi technically is working in the dorms, but it is only consistent on the first floor. Wifi is intermittent on the 2nd and 3rd floor but we are aware of this issue. 
 
-_16 upvotes | 1 downvotes [Anonymous Oct 28, 2019, 12:46 PM]_
-### A:
-Jamie: "Why are you coming at us like this instead of coming and having a personal conversation with us? If you have an issue with someone, come talk to us so we can fix it. This feedback is valuable, but it's not concrete. As we restructure with our new exec director, we may be changing some things."
+**Is there is any information regarding FileMaker?**
 
----
-### Q:
-we should get \~12 sick days / year that work like vacation days except they apply automatically instead of being bocal approved (in case we get sick, need a mental health day, need to go to the doctor, or any other emergency!!)
+The next one is spring but there are no set dates right now.
 
-_18 upvotes | 4 downvotes [Anonymous -- Oct 27, 2019, 1:36:16 AM]_
-### A:
-Local bocal will bring this up with Paris. :)
+**In terms of the new curriculum, is there a plan in the next couple to rollover to that?**
 
----
-### Q:
-Crystal, we appreciate how communicative you are with us cadets!
-Great choice for a bocalean.
+At the time, nope. However, in the next few months, possibly. We currently do not have the infrastructure to set that up.
 
-_14 upvotes | 0 downvotes [Anonymous Oct 28, 2019, 11:24 AM]_
-### A:
-Crystal: "Awww you guys!"
+**What about the new norm? The define feature**
 
----
-### Discussion on the interaction between burnout, dorm requirements, and housing insecurity
+It was used to prevent people from macro-ing the code to pass norminette (bad coding habit).
 
-agrodzin: "Burnout is an issue that everyone should be aware of. 50-60 hours logged per week is a lot and I think we need to keep in mind that it can lead to burnout."
+**Are you going to do anything about the days in which hours were gone? The internet/power outage issue**
 
-mbrave: "Vacation hours are only for people who are ahead of the curriculum... but that's only like 20 people. Doesn't that tend to increase burnout?"
-
-Gaetan: "Burnout happens to all of us during our lives. You need to recognize it in yourself and manage yourself. In this school, you may experience burnout, and you will also hopefully learn how to manage it so that you know how when you enter the workforce. I built day09 of the piscine to trap people into trying to stay up 24-hours straight so they fall asleep during the exam and learn about burnout. If you can't spend 35 hours per week here, maybe it's not the school for you"
-
-Dan: "What's the goal here? This is a school for programmers. Your goal is to get a programming job. For that job, you will compete with people who spent 4+ years learning how to be a programmer. You cannot compete with these people if you spend only 35 hours per week for a year."
-
-japarbs: "The CYD requirements are not statistically backed; very few people meet those requirements; they're vague."
-
-Gaetan: "CYD requirements are clear. We talk about them every town hall."
-
-mmoros: "Different people are behind by different amounts. If no one is meeting the official requirements, it's good that bocal is willing to work with people, but no one knows where they stand with respect to getting kicked out of their house. That's why the actual requirements are vague."
-
-Michael: "There are basically two categories of students who fall onto CYD: students below level 7 who aren't progressing, and students above level 7 who just aren't turning in projects"
-
-Stephen: "Look at the people who are passing CYD. Look how many hours they're spending in the lab, and how many of those hours they're actively working. It's hard to push yourself like that, but these are the people who know what they're up against."
-
-Crystal: "It's scary to feel like you're behind on a number that determines your housing status. I know how scary it is to feel like there's a wolf chasing you. If you start feeling like you're falling behind, come talk to us. If you feel afraid to talk to us, I consider that a personal failing."
-
-
----
-### Q:
-New piscines, JS Piscine, JAVA Piscine, etc...
-
-_25 upvotes | 12 downvotes [Anonymous -- Oct 25, 2019, 4:49:15 PM]_
-### A:
-
----
-### Q:
-Mind introducing us to the new manager of 42 silicon valley?
-
-_17 upvotes | 4 downvotes [Anonymous -- Oct 25, 2019, 6:25:27 PM]_
-### A:
-
----
-### Q:
-Situation in the dorm
-1. Too many people per room. We have only 200 sq feet of living space, it is not enough even for 3 people by the Housing Maintenance code. 
-2. Fans in bathrooms don't work. It is always wet, smells bad and we have mold.
-3. Almost everyone cooks in the dorm - against the rules.
-
-_24 upvotes | 11 downvotes [Anonymous -- Oct 27, 2019, 11:34:48 AM]_
-### A:
-
----
-### Q:
-Python piscine? More web projects? PLEASE
-
-_18 upvotes | 6 downvotes [Anonymous -- Oct 26, 2019, 12:00:23 PM]_
-### A:
-
-Anonymous
-Oct 27, 2019, 1:40:20 AM
-i think CYD hours should be 70 every 2 weeks instead of 35 every week. just in case someone runs out of time and cares about making up their hours the next week
-175
-
----
-### Q:
-A cadet care pantry for those who are unable to afford basic necessities supplies. I've met a few cadets living on 100-150$/month, and I'm shocked they're able to survive (eg. eating ramen daily). The cadet care pantry would be free for those who want to pick up something from there.
-
-_16 upvotes | 5 downvotes [Anonymous -- Oct 25, 2019, 5:51:44 PM]_
-### A:
-
----
-### Q:
-Do people living in the parking lot have to start worrying about meeting CYD requirements? It's been rumored since last Townhall
-
-_11 upvotes | 0 downvotes [Anonymous -- Oct 26, 2019, 4:40:59 PM]_
-### A:
-
----
-### Q:
-Could you update piscine, please?
-Especially C++, Web and Interview
-
-_14 upvotes | 5 downvotes [Anonymous -- Oct 25, 2019, 10:22:48 PM]_
-### A:
-
----
-### Q:
-Why are the bathrooms so under maintained? I know we have janitors / cleaning staff. The entire downstairs is almost non functional. Paper towels are often missing and sometimes just a roll above (That's extremely lazy and insanitary). The wall mounted soap never refilled. Why is this?
-
-_11 upvotes | 2 downvotes [Anonymous -- Oct 27, 2019, 1:41:31 AM]_
-### A:
-
----
-### Q:
-Air conditioners- heater problem...
-Can you fix them, please!
-
-_10 upvotes | 1 downvotes [Anonymous -- Oct 27, 2019, 3:33:34 PM]_
-### A:
-
----
-### Q:
-Parking lot lights. To help others feel safer on campus could we make sure that all exterior lights are in working condition and that they properly illuminate the walking path. Possibly convert to LED?
-
-_11 upvotes | 3 downvotes [Anonymous -- Oct 26, 2019, 5:47:14 AM]_
-### A:
-
----
-### Q:
-Can something be done to the people who found stealing? So we stop having this issues over and over.
-
-_9 upvotes | 2 downvotes [Anonymous -- Oct 27, 2019, 6:34:14 PM]_
-### A:
-
----
-### Q:
-Can something be done about lab temperature? It get very cold sometimes
-
-_8 upvotes | 2 downvotes [Anonymous Oct 28, 2019, 10:39 AM]_
-### A:
-
----
-### Q:
-Who are the new bocalians? What is the role of each bocalian?
-
-_6 upvotes | 2 downvotes [Anonymous Oct 28, 2019, 10:34 AM]_
-### A:
-
----
-### Q:
-I was checking the quests on intra, it says about black hole level 1 and 5, I know USA is not working with black hole right now.. is that going to change after the new holly graph?
-
-_6 upvotes | 4 downvotes [Anonymous -- Oct 25, 2019, 6:10:10 PM]_
-### A:
-
----
-### Q:
-New 42 swag???
-
-_6 upvotes | 4 downvotes [Anonymous -- Oct 25, 2019, 10:26:54 PM]_
-### A:
-
----
-### Q:
-Can you move the lost and found where the camera can see clearly, so that the stealing stops please? Anybody could forget something by accident one day and having a high probability of thievery is not good for the community.
-
-_5 upvotes | 3 downvotes [Anonymous Oct 28, 2019, 12:19 PM]_
-### A:
-
----
-### Q:
-Is it possible to complete a MOOC course and receive experience points, if the course online is relevant and useful?
-
-_2 upvotes | 0 downvotes [Anonymous Oct 28, 2019, 1:18 PM]_
-### A:
-
----
-### Q:
-When will the next Python Django piscine be made available? Will there be a Python Piscine here in our branch, like in Paris?  if so, when?
-
-_2 upvotes | 1 downvotes [Anonymous Oct 28, 2019, 1:21 PM]_
-### A:
-
----
-### Q:
-Is there a plan in place in case the lab's electricity gets turned off?
-
-_8 upvotes | 8 downvotes [Anonymous -- Oct 25, 2019, 6:38:56 PM]_
-### A:
-
----
-### Q:
-Happy birthday to my little brother Richard! Love you lots, so proud of who you've become and how big you've grown. Woooo!
-
-_5 upvotes | 5 downvotes [Michael Lu Oct 28, 2019, 10:12 AM]_
-### A:
-
----
-### Q:
-I think we need create something like in interview piscine rushes , but once a month and obligatory in any language )))) that’s would prepared for real life interviews, and would help a lot to get a job.
-
-_0 upvotes | 1 downvotes [Маша Пашинськм Oct 28, 2019, 1:26 PM]_
-### A:
-
----
-### Q:
-Shouldn't cadets be required to pass the exams at some sufficient stage in order for them to continue to stay in the dorm?  I see some playing video games all night in the hall ways with the WIFI.
-
-_0 upvotes | 2 downvotes [Anonymous Oct 28, 2019, 1:20 PM]_
-### A:
-
----
-### Q:
-Kotlin piscine? Since Kotlin is starting to become the language of choice for android development and Google has started moving away from Java.
-
-_0 upvotes | 3 downvotes [Anonymous Oct 28, 2019, 12:58 PM]_
-### A:
-
----
-### Q:
-What's happened to bicycle room? 
-There are too many bikes. What about charity give away?
-
-_6 upvotes | 13 downvotes [Anonymous -- Oct 25, 2019, 10:24:57 PM]_
-### A:
-
----
-### Q:
-After 7pm in the the lab is very noisy. 
-People come just to track their hours and start talking too loud and of course they don't care about other who working. 
-Can you do something about it?
-
-_7 upvotes | 28 downvotes [Anonymous -- Oct 25, 2019, 5:50:46 PM]_
+For this last outage when the internet was down, bocal is crediting 6 hours for each day the internet was down (2 days). A couple weeks ago, bocal took the hour requirement down from 35 to 25 during that week. If hours are not logging for a few hours, bocal will have a meeting to discuss how to allocate the appropriate hours or decrease the hours appropriately.
